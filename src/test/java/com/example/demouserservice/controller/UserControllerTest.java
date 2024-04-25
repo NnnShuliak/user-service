@@ -2,8 +2,6 @@ package com.example.demouserservice.controller;
 
 import com.example.demouserservice.domain.User;
 import com.example.demouserservice.service.UserService;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
